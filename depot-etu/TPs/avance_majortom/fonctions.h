@@ -1,0 +1,1 @@
+/* Ecrire ce fichier entete en prenant modele par exemple sur sdlsound.h */
